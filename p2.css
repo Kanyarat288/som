@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    background-color: rgb(250, 235, 215);
+}
+/* From cssbuttons.io by @westitan */
+button {
+    
+
+    font-size: 100%;
+    padding: 3% 5%;
+    border-radius: 40px;
+    border: none;
+    color: chocolate;
+    background-color: rgb(243, 243, 243);
+   }
+   
+  
